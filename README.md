@@ -1,1 +1,1 @@
-**use triple loss and focal loss in DNN model**
+**combine triple loss and focal loss in DNN model**
